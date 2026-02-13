@@ -20,7 +20,6 @@
 ---
 
 - 🌱 I’m currently learning **Embedded Systems, RUST**
-- 🤝 I’m looking for help with **Android Application Development**
 - 📫 Reach me at: **darshangowdar29@gmail.com**
 - 📄 [View My Resume](https://drive.google.com/file/d/1QN-lFdkNZ-zFLLlqkv-SHEPrqDIm_qcw/view?usp=sharing)
 
@@ -69,10 +68,8 @@
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> &nbsp;&nbsp;
-   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> &nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> &nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/> &nbsp;&nbsp;
 </p>
 
